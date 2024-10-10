@@ -1,0 +1,4 @@
+\beamer@sectionintoc {1}{Mục 1}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Mục con của mục 1}{4}{0}{1}
+\beamer@sectionintoc {2}{Mục 2}{5}{0}{2}
+\beamer@subsectionintoc {2}{1}{Mục con của mục 2}{6}{0}{2}
